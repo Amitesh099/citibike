@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: demo_source
+    database: amitesh
+    schema: amitesh_sch
+    tables:
+      - name: bike
+      - name: weather
+      
